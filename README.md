@@ -1,1 +1,2 @@
-# todo-list
+# todoList
+This is my first MERN project
